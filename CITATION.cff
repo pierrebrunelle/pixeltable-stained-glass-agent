@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "stained-glass commissions RAG agent built with Pixeltable"
+abstract: "A stained-glass workshop agent that answers commission questions over images, stored session notes and Python tools, with every step a Pixeltable computed column."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-stained-glass-agent"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-20
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "rag"
+  - "ai-agents"
+  - "stained-glass"
+  - "llm-agents"
+  - "multimodal"
+  - "ai"
+  - "data-infrastructure"
